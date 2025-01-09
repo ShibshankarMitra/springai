@@ -1,5 +1,5 @@
-#!/bin/sh
-OPENAI_API_KEY="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"
+#!/bin/bash
+OPENAI_API_KEY="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"
 PROMPT="Tell me a joke"
 
 curl "https://api.openai.com/v1/chat/completions" \
